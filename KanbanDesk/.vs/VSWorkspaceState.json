@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\KanbanDesk",
+    "\\KanbanDesk\\ClientApp",
+    "\\KanbanDesk\\ClientApp\\css",
+    "\\KanbanDesk\\Controllers",
+    "\\KanbanDesk\\Views",
+    "\\KanbanDesk\\Views\\Goals",
+    "\\KanbanDesk\\Views\\HelloWorld"
+  ],
+  "SelectedNode": "\\KanbanDesk\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
